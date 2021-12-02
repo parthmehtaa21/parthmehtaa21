@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parthmehtaa21
-- 👀 I’m interested in Data analytics,Data science,Machine learning and Deep Learning
+- 👀 I’m interested in Data analytics,Big Data,Data science,Machine learning and Deep Learning
 - 🌱 I’m currently learning foundations of these topics 
 - 💞️ I’m looking to collaborate on projects related to these topics
 - 📫 How to reach me - my mail id - mehtaparth030@gmail.com
